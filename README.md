@@ -1,2 +1,2 @@
 # probable-guacamole
-guacamole
+guacamole is good
